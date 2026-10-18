@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/medistock1/static/css/main.f3c992af.css",
-    "main.js": "/medistock1/static/js/main.b4a507ed.js",
+    "main.css": "/medistock1/static/css/main.1bdbcd55.css",
+    "main.js": "/medistock1/static/js/main.f3875109.js",
     "index.html": "/medistock1/index.html",
-    "main.f3c992af.css.map": "/medistock1/static/css/main.f3c992af.css.map",
-    "main.b4a507ed.js.map": "/medistock1/static/js/main.b4a507ed.js.map"
+    "main.1bdbcd55.css.map": "/medistock1/static/css/main.1bdbcd55.css.map",
+    "main.f3875109.js.map": "/medistock1/static/js/main.f3875109.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3c992af.css",
-    "static/js/main.b4a507ed.js"
+    "static/css/main.1bdbcd55.css",
+    "static/js/main.f3875109.js"
   ]
 }
